@@ -29,3 +29,22 @@ npm run dev
 # Run in production mode
 npm start
 ```
+
+```docker run
+
+# run image to container
+```
+
+docker-compose up -d
+
+```
+
+# View log container
+
+```
+
+docker logs review_movies -f
+
+```
+
+```
